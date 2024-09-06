@@ -1,6 +1,6 @@
 ## **README.md**
 
-### **Podcast Brasileiro: Seu guia para os melhores podcasts em português!**
+### **Podcast Brasileiro: Seu guia para os melhores podcasts em português! - Imersão DEV com Google Gemini**
 
 **O que é?**
 
