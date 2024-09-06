@@ -4,11 +4,10 @@
 /* Estiliza o corpo da página */
 body {
     font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
-    background-color: cadetblue;
-    /*background-color: #DDDDDD; /* Cor de fundo da página */
-    /*background-image: url('images/Podcast.png');
+    /*background-color: cadetblue;*/
+    background-image: url('images/podcast.jpg');
     background-position: center;
-    background-size: contain;*/
+    background-size: cover;
     
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
@@ -24,7 +23,13 @@ h1 {
     font-size: 2.5rem; /* Tamanho da fonte */
     color: #222831; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
-    letter-spacing: 0.4rem; /* Espaçamento entre letras */
+    letter-spacing: 0.8rem; /* Espaçamento entre letras */
+
+    background: #FFFFFF; /* Cor de fundo dos itens */
+    border-radius: 0.8rem; /* Borda arredondada */
+    padding: 1rem; /* Espaçamento interno */
+    margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
 }
 
 /* Estiliza as seções da página */
